@@ -7,7 +7,7 @@ Contact: ngho@eng.ucsd.edu or ngho@utexas.edu
 
 # Mini Reddit
 
-A light installation of Reddit where a user can fetch new feed from the top 100-most popular
+A light installation of Reddit where a user can fetch news feed from the top 100-most popular
 subreddits, hit the "Like" button and so on.
 
 ## Installation
